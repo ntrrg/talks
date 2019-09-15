@@ -1,5 +1,5 @@
 
-# 4. Vim and ...
+# 4. Vim y ...
 
 ## Python
 
